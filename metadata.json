@@ -1,0 +1,6 @@
+{
+  "name": "RexDevCyber X",
+  "description": "Interactive setup, localization with Crowdin, and Firebase deployment guide for RexDevCyber projects with a dynamic CLI command simulator, progress dashboard, and config file generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
